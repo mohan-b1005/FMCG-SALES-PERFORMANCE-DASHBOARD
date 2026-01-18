@@ -8,13 +8,6 @@ The dashboard consolidates data from **Sales, Products, Customers, Date, and Geo
 
 ---
 
-## Live Report Link  
-https://app.powerbi.com/reportEmbed?reportId=6c3e1a38-caf0-4d68-84c7-07cc907282d7&autoAuth=true&ctid=6627360e-a7aa-4e24-bd88-a75fbc42bc55
-
----
-
----
-
 ## Dashboard Preview – Report Pages  
 
 This Power BI solution consists of **four interactive report pages**, each designed with a specific analytical purpose.  
